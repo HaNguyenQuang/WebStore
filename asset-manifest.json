@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WebStore/static/css/main.bf2f2fda.chunk.css",
+    "main.js": "/WebStore/static/js/main.9176da26.chunk.js",
+    "main.js.map": "/WebStore/static/js/main.9176da26.chunk.js.map",
+    "runtime-main.js": "/WebStore/static/js/runtime-main.7b14983d.js",
+    "runtime-main.js.map": "/WebStore/static/js/runtime-main.7b14983d.js.map",
+    "static/js/2.7887c69c.chunk.js": "/WebStore/static/js/2.7887c69c.chunk.js",
+    "static/js/2.7887c69c.chunk.js.map": "/WebStore/static/js/2.7887c69c.chunk.js.map",
+    "static/js/3.28cfbc5c.chunk.js": "/WebStore/static/js/3.28cfbc5c.chunk.js",
+    "static/js/3.28cfbc5c.chunk.js.map": "/WebStore/static/js/3.28cfbc5c.chunk.js.map",
+    "index.html": "/WebStore/index.html",
+    "static/css/main.bf2f2fda.chunk.css.map": "/WebStore/static/css/main.bf2f2fda.chunk.css.map",
+    "static/js/2.7887c69c.chunk.js.LICENSE.txt": "/WebStore/static/js/2.7887c69c.chunk.js.LICENSE.txt",
+    "static/media/26850c243d4ac914905b.691a124c.jpg": "/WebStore/static/media/26850c243d4ac914905b.691a124c.jpg",
+    "static/media/7b719b33aa5d5e03074c.c2f1095b.jpg": "/WebStore/static/media/7b719b33aa5d5e03074c.c2f1095b.jpg",
+    "static/media/943560b751d9a587fcc8.3d856c84.jpg": "/WebStore/static/media/943560b751d9a587fcc8.3d856c84.jpg",
+    "static/media/bo-thai-doc-caruso-quick-clean.222d5434.mp4": "/WebStore/static/media/bo-thai-doc-caruso-quick-clean.222d5434.mp4",
+    "static/media/d028ea4edb202f7e7631.5aa4aa8a.jpg": "/WebStore/static/media/d028ea4edb202f7e7631.5aa4aa8a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b14983d.js",
+    "static/js/2.7887c69c.chunk.js",
+    "static/css/main.bf2f2fda.chunk.css",
+    "static/js/main.9176da26.chunk.js"
+  ]
+}
